@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://webandia.github.io/sitemap.html.gz
+Sitemap: https://webandia.github.io/app/sitemap.html.gz
+Sitemap: https://webandia.github.io/assets/sitemap.html.gz
+Sitemap: https://webandia.github.io/css/sitemap.html.gz
+Sitemap: https://webandia.github.io/includes/sitemap.html.gz
+Sitemap: https://webandia.github.io/item/sitemap.html.gz
+Sitemap: https://webandia.github.io/src/sitemap.html.gz
